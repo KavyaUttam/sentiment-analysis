@@ -9,7 +9,7 @@ The model is trained on textual data and learns contextual relationships between
 
 ---
 
-## 🧠 Features
+#Features
 
 * 🔍 Text preprocessing (cleaning, tokenization, padding)
 * 📚 Word embeddings for better representation
@@ -19,10 +19,10 @@ The model is trained on textual data and learns contextual relationships between
 
 ---
 
-## 🏗️ Tech Stack
+ 🏗️ Tech Stack
 
-* **Programming Language:** Python 🐍
-* **Libraries & Frameworks:**
+* Programming Language: Python 
+* Libraries & Frameworks:
 
   * TensorFlow / Keras
   * NumPy
@@ -32,7 +32,7 @@ The model is trained on textual data and learns contextual relationships between
 
 ---
 
-## 📂 Project Structure
+📂 Project Structure
 
 ```
 📦 Sentiment-Analysis-RNN-LSTM
@@ -46,7 +46,7 @@ The model is trained on textual data and learns contextual relationships between
 
 ---
 
-## ⚙️ Installation
+ ⚙️ Installation
 
 1️⃣ Clone the repository:
 
@@ -68,7 +68,7 @@ pip install -r requirements.txt
 
 ---
 
-## ▶️ Usage
+ ▶️ Usage
 
 Run the notebook or script to train the model:
 
@@ -84,7 +84,7 @@ notebooks/sentiment_analysis.ipynb
 
 ---
 
-## 📊 Model Workflow
+ 📊 Model Workflow
 
 ```
 Text Data → Preprocessing → Tokenization → Embedding → RNN/LSTM → Prediction
@@ -92,16 +92,16 @@ Text Data → Preprocessing → Tokenization → Embedding → RNN/LSTM → Pred
 
 ---
 
-## 📈 Results
+ 📈 Results
 
 * Achieved good accuracy on test data
 * LSTM outperforms simple RNN in capturing long-term dependencies
 
-*(You can add exact accuracy here)*
+
 
 ---
 
-## 🧪 Example
+ 🧪 Example
 
 **Input:**
 
@@ -126,26 +126,10 @@ Positive 😊
 
 ---
 
-## 🤝 Contributing
-
-Contributions are welcome! Feel free to fork this repo and submit a pull request.
-
----
-
 ## 📜 License
 
 This project is open-source and available under the **MIT License**.
 
----
-
-## 👨‍💻 Author
-
-**Your Name**
-
-* GitHub: https://github.com/your-username
-* LinkedIn: (add your profile)
-
----
 
 ## ⭐ Support
 
